@@ -1,0 +1,364 @@
+[
+    [
+      {
+        "impFunction":"startApps",
+        "viewController" : "",
+        "title" : "多应用切换【应用切换+转场动画】",
+        "sectionTitle" : "多应用管理"
+      },
+      {
+          "impFunction":"getCurrentAppVcs",
+          "viewController" : "",
+          "title" : "应用页面管理【页面切换+管理应用内页面栈】",
+          "sectionTitle" : "多应用管理"
+      }, 
+      {
+        "impFunction":"test",
+        "viewController" : "",
+        "title" : "临时测试页面工具",
+        "sectionTitle" : "临时测试"
+      },
+      
+      
+    ],
+    [
+        {
+          "impFunction":"",
+          "viewController" : "DemoCollectionViewController",
+          "title" : "PushPop动画【格子Item】",
+          "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【PageFlip_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【PageFlip_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+         
+        
+        {
+                "impFunction":"",
+                "viewController" : "DemoCollectionViewController",
+                "title" : "PushPop动画【PageCover】",
+                "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Brick_Open_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Brick_Open_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Brick_Close_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Brick_Close_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" :["PushPop动画[Fragment_Show_Top]","PushPop动画[Fragment_Show_Bottom]","PushPop动画[Fragment_Show_Left]","PushPop动画[Fragment_Show_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : ["PushPop动画[Fragment_Hide_Top]","PushPop动画[Fragment_Hide_Bottom]","PushPop动画[Fragment_Hide_Left]","PushPop动画[Fragment_Hide_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+         
+        
+        
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Boom】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Inside_Then_Push】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "PushPop动画【Spread_OnePoint】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" :["PushPop动画[Spread_OneSide_Top]","PushPop动画[Spread_OneSide_Bottom]","PushPop动画[Spread_OneSide_Left]","PushPop动画[Spread_OneSide_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+           "impFunction":"",
+           "viewController" : "DemoCollectionViewController",
+           "title" : "PushPop动画【SpringWithDamping】",
+           "sectionTitle" : "自定义转场动画"
+         },
+    ],
+    [
+         
+        {
+          "impFunction":"",
+          "viewController" : "DemoCollectionViewController",
+          "title" : "Modal动画【格子Item】",
+          "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【PageFlip_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【PageFlip_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+                "impFunction":"",
+                "viewController" : "DemoCollectionViewController",
+                "title" : "Modal动画【PageCover】",
+                "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Brick_Open_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Brick_Open_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Brick_Close_Vertical】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Brick_Close_Horizontal】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" :["Modal动画[Fragment_Show_Top]","PushPop动画[Fragment_Show_Bottom]","PushPop动画[Fragment_Show_Left]","PushPop动画[Fragment_Show_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : ["Modal动画[Fragment_Hide_Top]","PushPop动画[Fragment_Hide_Bottom]","PushPop动画[Fragment_Hide_Left]","PushPop动画[Fragment_Hide_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Boom】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Inside_Then_Push】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" : "Modal动画【Spread_OnePoint】",
+            "sectionTitle" : "自定义转场动画"
+        },
+        {
+            "impFunction":"",
+            "viewController" : "DemoCollectionViewController",
+            "title" :["Modal动画[Spread_OneSide_Top]","PushPop动画[Spread_OneSide_Bottom]","PushPop动画[Spread_OneSide_Left]","PushPop动画[Spread_OneSide_Right]"],
+            "sectionTitle" : "自定义转场动画"
+        },
+        
+        
+         {
+           "impFunction":"",
+           "viewController" : "ModalViewController",
+           "title" : "Modal动画【SpringWithDamping】",
+           "sectionTitle" : "自定义转场动画"
+         },
+         {
+                 "impFunction":"",
+                 "viewController" : "ModalViewController",
+                 "title" : "Modal动画【PresentNetPageWithHalfFrame】",
+                 "sectionTitle" : "自定义转场动画"
+         },
+    ],
+    
+  [
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : "Modal动画[Fade]",
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : ["Modal动画[Push_Top]","Modal动画[Push_Bottom]","Modal动画[Push_Left]","Modal动画[Push_Right]"],
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : ["Modal动画[MoveIn_Top]","Modal动画[MoveIn_Bottom]","Modal动画[MoveIn_Left]","Modal动画[MoveIn_Right]"],
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : ["Modal动画[Reveal_Top]","Modal动画[Reveal_Bottom]","Modal动画[Reveal_Left]","Modal动画[Reveal_Right]"],
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : ["Modal动画[Cube_Top]","Modal动画[Cube_Bottom]","Modal动画[Cube_Left]","Modal动画[Cube_Right]"],
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : ["Modal动画[OglFlip_Top]","Modal动画[OglFlip_Bottom]","Modal动画[OglFlip_Left]","Modal动画[OglFlip_Right]"],
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : "Modal动画[SuckEffect]",
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : "Modal动画[RippleEffect]",
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    
+        {
+            "impFunction":"",
+            "viewController" : "ModalDemoViewController",
+            "title" : ["Modal动画[PageCurl_Top]","Modal动画[PageCurl_Bottom]","Modal动画[PageCurl_Left]","Modal动画[PageCurl_Right]"],
+            "sectionTitle" : "系统转场动画CATransition"
+          },
+    
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : "Modal动画[CameraIrisHollowOpen]",
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+    {
+        "impFunction":"",
+        "viewController" : "ModalDemoViewController",
+        "title" : "Modal动画[CameraIrisHollowClos]",
+        "sectionTitle" : "系统转场动画CATransition"
+      },
+  ],[
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : "PushPop动画[Fade]",
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" :  ["PushPop动画[Push_Top]","PushPop动画[Push_Bottom]","PushPop动画[Push_Left]","PushPop动画[Push_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" :  ["PushPop动画[MoveIn_Top]","PushPop动画[MoveIn_Bottom]","PushPop动画[MoveIn_Left]","PushPop动画[MoveIn_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : ["PushPop动画[Reveal_Top]","PushPop动画[Reveal_Bottom]","PushPop动画[Reveal_Left]","PushPop动画[Reveal_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : ["PushPop动画[Cube_Top]","PushPop动画[Cube_Bottom]","PushPop动画[Cube_Left]","PushPop动画[Cube_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : ["PushPop动画[OglFlip_Top]","PushPop动画[OglFlip_Bottom]","PushPop动画[OglFlip_Left]","PushPop动画[OglFlip_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : "PushPop动画[SuckEffect]",
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : "PushPop动画[RippleEffect]",
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : ["PushPop动画[PageCurl_Top]","PushPop动画[PageCurl_Bottom]","PushPop动画[PageCurl_Left]","PushPop动画[PageCurl_Right]"],
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : "PushPop动画[CameraIrisHollowOpen]",
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+      {
+          "impFunction":"",
+          "viewController" : "PushPopViewController",
+          "title" : "PushPop动画[CameraIrisHollowClos]",
+          "sectionTitle" : "系统转场动画CATransition"
+        },
+    ],
+   
+  
+]
